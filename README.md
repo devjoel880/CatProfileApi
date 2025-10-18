@@ -59,7 +59,9 @@ Newtonsoft.Json (optional)
 
 ## 🌐 External API
 
-Cat Facts API
+```link
+https://catfact.ninja/fact
+```
 
 ## 🧠 What I Learned
 
